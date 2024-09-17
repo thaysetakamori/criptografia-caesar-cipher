@@ -11,7 +11,7 @@ Implementar uma função que realize a criptografia de uma string usando a Cifra
 **Entender o funcionamento da Cifra de César:**
 - Cada letra no texto é deslocada um número fixo de posições no alfabeto.
 - Exemplo: com deslocamento de 2, 'A' vira 'C', 'B' vira 'D', e assim por diante.
-- Ao chegar ao final do alfabeto (como de 'Z' para 'A'), ele deve "circular" para o início.<br><br>
+- Ao chegar ao final do alfabeto (como de 'Z' para 'A'), ele deve "circular" para o início.
 
 **Distinguir maiúsculas e minúsculas:**
 - As letras maiúsculas e minúsculas têm posições diferentes na tabela ASCII (onde cada caractere tem um código numérico associado), então é preciso tratar isso separadamente.
