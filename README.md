@@ -1,3 +1,5 @@
+# Criptografia Caesar Cipher
+
 ## Objetivo
 Implementar uma função que realize a criptografia de uma string usando a Cifra de César, que é um tipo de criptografia por substituição. Isso significa que cada letra do texto é substituída por outra, que aparece um certo número de posições (chamado de deslocamento) à frente no alfabeto.
 - O parâmetro str representa a string a ser criptografada.
